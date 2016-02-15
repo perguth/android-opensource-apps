@@ -1,2 +1,4 @@
-# android-opensource-apps
-A curated list of opensource apps for Android
+# Android Opensource Apps
+
+> A curated list of opensource apps for Android
+
