@@ -15,6 +15,7 @@
 - [OpenCamera](https://github.com/almalence/OpenCamera): Multi-functional camera application.
 - [Omni-Notes](https://github.com/federicoiosue/Omni-Notes): A note-taking application.
 - [RunnerUp](https://github.com/jonasoreland/runnerup): A run tracker.
+- [SMS Backup+](https://github.com/jberkel/sms-backup-plus): Backup Android SMS, MMS and call logs.
 - [Signal-Android](https://github.com/WhisperSystems/Signal-Android): A private messenger.
 - [Syncthing](https://github.com/syncthing/syncthing-android): Continuous file synchronization.
 - [TagTime](https://github.com/dreeves/TagTime): Stochastic Time Tracking.
