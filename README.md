@@ -13,6 +13,7 @@
 - [MozStumbler](https://github.com/mozilla/MozStumbler): An app to gather data for [Mozillas Location Service](http://location.services.mozilla.com).
 - [NetGuard](https://github.com/M66B/NetGuard): A simple way to block access to the internet per application.
 - [OpenCamera](https://github.com/almalence/OpenCamera): Multi-functional camera application.
+- [Omni-Notes](https://github.com/federicoiosue/Omni-Notes): A note-taking application.
 - [RunnerUp](https://github.com/jonasoreland/runnerup): A run tracker.
 - [Signal-Android](https://github.com/WhisperSystems/Signal-Android): A private messenger.
 - [Syncthing](https://github.com/syncthing/syncthing-android): Continuous file synchronization.
