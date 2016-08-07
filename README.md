@@ -14,6 +14,7 @@
 - [Flym](https://github.com/FredJul/Flym): A feed reader.
 - [Lichess Mobile](https://github.com/veloce/lichobile): Play bullet, blitz, classical, and correspondence chess.
 - [Mirakel](https://github.com/MirakelX/mirakel-android): Easy task management.
+- [Minimal Open Source Location](https://github.com/repat/mosloc): Location: show longitude and latitude.
 - [MozStumbler](https://github.com/mozilla/MozStumbler): An app to gather data for [Mozillas Location Service](http://location.services.mozilla.com).
 - [NetGuard](https://github.com/M66B/NetGuard): A simple way to block access to the internet per application.
 - [OpenCamera](https://github.com/almalence/OpenCamera): Multi-functional camera application.
