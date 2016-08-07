@@ -2,6 +2,7 @@
 
 > A curated list of opensource apps for Android
 
+- [AntennaPod](https://github.com/AntennaPod/AntennaPod): A podcast manager.
 - [Amaze File Manager](https://github.com/arpitkh96/AmazeFileManager): A file manager.
 - [Birthday Adapter](https://github.com/SufficientlySecure/birthday-adapter): Display all contact birthdays automatically in your calendar.
 - [Book-Catalogue](https://github.com/eleybourn/Book-Catalogue): A book cataloging tool.
