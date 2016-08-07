@@ -18,8 +18,8 @@
 - [OpenCamera](https://github.com/almalence/OpenCamera): Multi-functional camera application.
 - [Omni-Notes](https://github.com/federicoiosue/Omni-Notes): A note-taking application.
 - [RunnerUp](https://github.com/jonasoreland/runnerup): A run tracker.
-- [Sentinel](https://github.com/Samourai-Wallet/sentinel-android): Watch only Bitcoin wallet.
+- [Sentinel](https://github.com/Samourai-Wallet/sentinel-android): Watch-only Bitcoin wallet.
 - [SMS Backup+](https://github.com/jberkel/sms-backup-plus): Backup Android SMS, MMS and call logs.
 - [Signal-Android](https://github.com/WhisperSystems/Signal-Android): A private messenger.
 - [Syncthing](https://github.com/syncthing/syncthing-android): Continuous file synchronization.
-- [TagTime](https://github.com/dreeves/TagTime): Stochastic Time Tracking.
+- [TagTime](https://github.com/dreeves/TagTime): Stochastic time tracking.
