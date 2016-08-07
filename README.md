@@ -9,6 +9,7 @@
 - [Conversations](https://github.com/siacs/Conversations): An open source XMPP/Jabber client.
 - [CSipSimple](https://github.com/r3gis3r/CSipSimple): SIP telephony.
 - [DAVdroid](https://github.com/bitfireAT/davdroid): CalDAV/CardDAV synchronization.
+- [DiskUsage](https://github.com/IvanVolosyuk/diskusage): Find files and directories which consume the most storage space.
 - [Mirakel](https://github.com/MirakelX/mirakel-android): Easy task management.
 - [MozStumbler](https://github.com/mozilla/MozStumbler): An app to gather data for [Mozillas Location Service](http://location.services.mozilla.com).
 - [NetGuard](https://github.com/M66B/NetGuard): A simple way to block access to the internet per application.
