@@ -25,3 +25,4 @@
 - [Signal-Android](https://github.com/WhisperSystems/Signal-Android): A private messenger.
 - [Syncthing](https://github.com/syncthing/syncthing-android): Continuous file synchronization.
 - [TagTime](https://github.com/dreeves/TagTime): Stochastic time tracking.
+- [tomahawk-android](https://github.com/tomahawk-player/tomahawk-android): Multi-source music player.
