@@ -27,3 +27,7 @@
 - [TagTime](https://github.com/dreeves/TagTime): Stochastic time tracking.
 - [Timelapse (.gif maker)](https://github.com/growpedia/Timelapse-Android): Use camera overlays to create stop motion animations.
 - [tomahawk-android](https://github.com/tomahawk-player/tomahawk-android): Multi-source music player.
+
+***
+
+<sup>Initally assembled by [Thingylabs.移动](http://thingylabs.移动) with **<3**</sup> 
