@@ -17,6 +17,7 @@
 - [Minimal Open Source Location](https://github.com/repat/mosloc): Location: show longitude and latitude.
 - [MozStumbler](https://github.com/mozilla/MozStumbler): An app to gather data for [Mozillas Location Service](http://location.services.mozilla.com).
 - [NetGuard](https://github.com/M66B/NetGuard): A simple way to block access to the internet per application.
+- [NewPipe](https://github.com/TeamNewPipe/NewPipe): A libre lightweight youtube streaming frontend for Android.
 - [OpenCamera](https://github.com/almalence/OpenCamera): Multi-functional camera application.
 - [Omni-Notes](https://github.com/federicoiosue/Omni-Notes): A note-taking application.
 - [RunnerUp](https://github.com/jonasoreland/runnerup): A run tracker.
@@ -25,6 +26,7 @@
 - [Signal-Android](https://github.com/WhisperSystems/Signal-Android): A private messenger.
 - [Syncthing](https://github.com/syncthing/syncthing-android): Continuous file synchronization.
 - [TagTime](https://github.com/dreeves/TagTime): Stochastic time tracking.
+- [Termux](https://github.com/termux/termux-app): Android terminal and Linux environment.
 - [Timelapse (.gif maker)](https://github.com/growpedia/Timelapse-Android): Use camera overlays to create stop motion animations.
 - [tomahawk-android](https://github.com/tomahawk-player/tomahawk-android): Multi-source music player.
 
